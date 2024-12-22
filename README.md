@@ -1,3 +1,6 @@
+# YC_Directory
+A directory for startups on YC. Built with the latest features of NextJS 15.1.2
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
